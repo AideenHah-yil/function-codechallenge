@@ -7,10 +7,10 @@ def large_power(base, exponent):
         return False
 
 # Calling the large_power function and printing the results
-    print("Script started executing...")
-    print(large_power(10, 3))
-    print(large_power(2, 10))
-    print("Script finished executing.")
+print("Script started executing...")
+print(large_power(10, 3))
+print(large_power(2, 10))
+print("Script finished executing.")
 
 # Challenge 2
 def divisible_by_ten(num):
